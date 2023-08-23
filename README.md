@@ -1,5 +1,3 @@
-Simple programs made for educational purposes
-
 # domain_sort.py
 Take text file with emails as an input, create corresponding directory structure to sort email adresses by domains.
 
